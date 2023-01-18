@@ -48,7 +48,9 @@ def j0(x):
         Value of the Bessel function
         
     '''
-    return jax.scipy.special.bessel_jn(x,v=0,n_iter=50)[0]
+
+    dummy = jax.scipy.special.bessel_jn(x,v=0,n_iter=50)[0]
+    return jax.lax.select(~np.isfinite(dummy), 1., dummy)
 
 @jit
 @vmap
