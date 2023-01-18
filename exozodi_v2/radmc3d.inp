@@ -1,0 +1,12 @@
+nphot =       100000000 
+nphot_scat=    100000 
+nphot_spec=    10000 
+nphot_mono=    10000 
+scattering_mode_max = 2 
+modified_random_walk = 0 
+istar_sphere= 0 
+tgas_eq_tdust=1 
+incl_lines = 0 
+lines_mode=1 
+setthreads = 4 
+rto_style = 3

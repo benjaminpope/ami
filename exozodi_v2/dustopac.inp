@@ -1,0 +1,43 @@
+2               Format number of this file 
+10              Nr of dust species 
+============================================================================ 
+1               Way in which this dust species is read 
+0               0=Thermal grain 
+mix_1 Extension of name of dustkappa_***.inp file 
+---------------------------------------------------------------------------- 
+1               Way in which this dust species is read 
+0               0=Thermal grain 
+mix_2 Extension of name of dustkappa_***.inp file 
+---------------------------------------------------------------------------- 
+1               Way in which this dust species is read 
+0               0=Thermal grain 
+mix_3 Extension of name of dustkappa_***.inp file 
+---------------------------------------------------------------------------- 
+1               Way in which this dust species is read 
+0               0=Thermal grain 
+mix_4 Extension of name of dustkappa_***.inp file 
+---------------------------------------------------------------------------- 
+1               Way in which this dust species is read 
+0               0=Thermal grain 
+mix_5 Extension of name of dustkappa_***.inp file 
+---------------------------------------------------------------------------- 
+1               Way in which this dust species is read 
+0               0=Thermal grain 
+mix_6 Extension of name of dustkappa_***.inp file 
+---------------------------------------------------------------------------- 
+1               Way in which this dust species is read 
+0               0=Thermal grain 
+mix_7 Extension of name of dustkappa_***.inp file 
+---------------------------------------------------------------------------- 
+1               Way in which this dust species is read 
+0               0=Thermal grain 
+mix_8 Extension of name of dustkappa_***.inp file 
+---------------------------------------------------------------------------- 
+1               Way in which this dust species is read 
+0               0=Thermal grain 
+mix_9 Extension of name of dustkappa_***.inp file 
+---------------------------------------------------------------------------- 
+1               Way in which this dust species is read 
+0               0=Thermal grain 
+mix_10 Extension of name of dustkappa_***.inp file 
+---------------------------------------------------------------------------- 
