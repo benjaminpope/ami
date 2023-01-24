@@ -33,6 +33,8 @@ def j1(x):
     '''
     return jax.scipy.special.bessel_jn(x,v=1,n_iter=50)[1]
 
+@jit
+@vmap
 def j0(x):
     '''
     Compute the zeroth order Bessel function of the first kind.
@@ -141,7 +143,7 @@ def vis_ring(d,u,v):
     diam = d*mas2rad
     t = j0(np.pi*diam*r)
     return t
-    
+
 def vis_ellipse_disk(semi_axis,ecc,theta,u,v):
     '''
     Compute the visibility of an elliptical disk source.
